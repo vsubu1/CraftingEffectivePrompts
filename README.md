@@ -1,6 +1,6 @@
 # CraftingEffectivePrompts
 
-This repository contains the source codes for concepts explained in the book "Crafting Effective Prompts : A Practice to Prompt Engineering"
+This repository contains the source codes for concepts explained in the book "Crafting Effective Prompts : A Practice to Prompt Engineering".
 This book is available in Amazon in all market places in multiple formats.
 
 Introduction about the book:
