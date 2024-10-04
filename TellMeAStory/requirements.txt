@@ -1,0 +1,7 @@
+openai
+langchain
+huggingface-hub
+streamlit
+transformers
+utils
+ctransformers
